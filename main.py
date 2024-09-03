@@ -2,7 +2,7 @@
 
 from lib import ptc
 
-# Pokemon Trainer Club Account Creator
+# Pokemon Trainer Club Account Creator V2
 # By Gee19
 
 acc_prefix = "pick_your_own"
